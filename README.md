@@ -1,2 +1,3 @@
 # tweet_like_bot.py
-like the tweets from the page you like
+this programming creates a bot that like the tweets from a specific page which can be changed manualy 
+
